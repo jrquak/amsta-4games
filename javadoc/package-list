@@ -1,0 +1,16 @@
+
+com.amsta.puzzel
+com.amsta.puzzel.android
+com.amsta.puzzel.client
+com.amsta.puzzel.components.Buttons
+com.amsta.puzzel.components.ColorMemory
+com.amsta.puzzel.components.bubblepopper
+com.amsta.puzzel.components.diffgame
+com.amsta.puzzel.components.particle
+com.amsta.puzzel.components.shufflegame
+com.amsta.puzzel.desktop
+com.amsta.puzzel.events
+com.amsta.puzzel.interfaces
+com.amsta.puzzel.manager
+com.amsta.puzzel.screens
+com.amsta.puzzel.util
